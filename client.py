@@ -61,7 +61,7 @@ class simpleapp_tk(Tkinter.Tk):
 		self.T.insert(Tkinter.END, "erro de protocolo\nEx:(nome::msg)"+"\n")
 		self.T.config(state='disabled')
 	except:
-	    print "deu pau no envio"
+	    print "falha no envio"
 	    
     def OnPressEnter(self,event):
 	try:
