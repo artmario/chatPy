@@ -1,0 +1,3 @@
+[submodule "primeira-rede"]
+	path = primeira-rede
+	url = https://github.com/Mystic-Labs/primeira-rede.git
